@@ -1,0 +1,3 @@
+- olá, me chamo luccas daniel e tenho como apelido lukeid,
+- meu objetivo atual é adquirir conhecimento na minha área,
+- atualmente estou estudando mysql, HTML, css e javascript.
