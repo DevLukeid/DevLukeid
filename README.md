@@ -38,7 +38,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Devlukeid/Devlukeid/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
